@@ -1,4 +1,4 @@
-a = 190
+a = 3
 
 def factorial(n):
     f = 1
